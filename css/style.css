@@ -1,0 +1,23 @@
+
+h1{
+    /*decides type of font*/
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #A75D5D;
+}
+
+strong {
+    text-shadow: 5px 5px 5px grey;
+}
+
+.writer{
+    font-size: 5;
+    font-style: italic;
+    color: #A75D5D;
+}
+
+.content{
+    font-size: 10;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #D3756B;
+}
